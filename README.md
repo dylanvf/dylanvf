@@ -1,7 +1,8 @@
 ### Hi there! I'm Dylan!👨‍💻
 
-- 🎓 I'm currently a **Computer Engineering** student at Universidad de A Coruña (UDC)
+- 🎓 I'm currently a **Computer Science Engineering** student at Universidad de A Coruña (UDC)
 - 🗺️ I'm fluent in English, Spanish and Galician language, and also have knowledge in French
+- 🌱 I'm currently learning Front-end and Back-end developing
 <!--
 **dylanvf/dylanvf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
